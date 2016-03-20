@@ -1,0 +1,2 @@
+#Rules file for the ebbchar device driver
+KERNEL=="ledmsgchar", SUBSYSTEM=="ledmsg", MODE="0666"
